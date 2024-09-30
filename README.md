@@ -22,3 +22,9 @@ This project is the second from Udemy's course:
 
 - [ ] Learning how animations work hrough practical examples and projects.
 - [ ] To keep improving and understanding Java Swing library.
+
+---
+
+**Images folder** added to **.gitingnore** file so to run the app properly you need to configure your images folder.
+
+Names can be found on **constants** package and **Constant** class.
